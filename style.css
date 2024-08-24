@@ -1,0 +1,163 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container-A{
+    background-color:rgb(120, 174, 174);
+    width: 100%;
+    height: 700Px;
+}
+.contents h1{
+    color: rgb(9, 239, 239);
+    font-family: "Lexend Peta", sans-serif;
+    position: absolute;
+    left:500px;
+    top: 45px;
+    font-size: 5rem;
+}
+.contents h2{
+    color: rgb(9, 239, 239);
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    position: absolute;
+    top: 170px; 
+    left: 600px;
+    font-size: 2rem;
+}
+.dev{
+    text-decoration: underline;
+}
+.image img{
+    width: 100%;
+    height: 700px;
+}
+.profile{
+    height: 450px;
+    width: 100%;
+    background-color: rgb(222, 249, 240);
+}
+.about-me img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position:absolute;
+    left:670px;
+    top: 800px;
+}
+.about-me h2{
+    color: aqua;
+    font-size: 2rem;
+    position:absolute;
+    left: 700px;
+    top: 960px;
+}
+.about-me p{
+    width:350px;
+    position: absolute;
+    left: 590px;
+    top:1005px;
+    color: purple;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.skill{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(222, 249, 240);
+}
+.skills h2{
+    position: absolute;
+    color: aqua;
+    top: 1150px;
+    left: 665px;
+    font-size: 4rem;
+}
+.skills img{
+    height: 170px;
+    width: 200px;
+    position: absolute;
+    top:1250px;
+    left:350px;
+}
+.skills p{
+    width: 400px;
+    position: absolute;
+    top: 1300px;
+    left: 600px;
+    color:blue;
+}
+.cric img{
+    height: 170px;
+    width: 200px;
+    position: absolute;
+    top:1500px;
+    left:350px;
+}
+.cric p{
+    width: 400px;
+    position: absolute;
+    top: 1550px;
+    left: 600px;
+    color:blue;
+
+}
+.contact{
+    width: 100%;
+    height: 350px;
+
+}
+
+.contact h3{
+    width: 250px;
+    line-height: 2;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 603px;
+    top: 1850px;
+    font-size: 1.1rem;
+
+}  
+.contact button{
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    background: #11cdd4;
+    border: none;
+    position: absolute;
+    top: 1970px;
+    left: 630px;
+} 
+.contact h1{
+    position: absolute;
+    top: 1800px;
+    left: 600px;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.7rem;
+    font-weight: normal;
+    padding-bottom: 25px;
+}
+.accounts{
+    height: 150px;
+    width: 100%;
+    background-color:#068085;
+}
+.links{
+    display: inline-block;
+    text-underline-position: none;
+    color:#66bfbf;
+    padding: 10px 20px;
+    margin-top: 5%;
+    text-decoration-line: none;  
+}
+.to-visit{
+    margin-left: 37%;
+}
+.links:hover{
+    color: white;
+}
+
+
